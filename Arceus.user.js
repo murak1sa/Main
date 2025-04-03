@@ -35,4 +35,7 @@
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
 // @require     https://raw.githubusercontent.com/murak1sa/OwlusDontSaid/refs/heads/main/Yoh.js
 // @require     https://raw.githubusercontent.com/murak1sa/OwlusTeam/refs/heads/main/Arceus.js
+
+// @grant        none
+// @icon         https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU1OTZmeW8xdnlueXJ4NGRtdjRoeGkyenAwMmc4czk2Ym5oM2NkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXh7dMZZiHw7w75CgY/giphy.gif
 // ==/UserScript==
